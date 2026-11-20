@@ -1,0 +1,4 @@
+out/
+_kit/
+node_modules/
+.DS_Store
